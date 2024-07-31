@@ -1,6 +1,5 @@
 #include <iostream>
 
-
 double calculate (double a, double b, char op){
     switch (op)
     {
